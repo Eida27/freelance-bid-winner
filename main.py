@@ -29,7 +29,8 @@ st.markdown("""
     }
     /* Input Field Styling */
     .stTextArea textarea {
-        background-color: #f0f2f6; /* Light gray background for contrast */
+        background-color: #f0f2f6;
+        color: #31333F; /* Force text to be Dark Gray/Black */
         border-radius: 10px;
     }
     /* Button Styling */
